@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#i{
+	background-color:yellow;
+	border-style: solid;
+	border-color:green;
+}
+#ii{
+	background-color:red;
+	border-style: solid;
+	border-color:black;
+}
+#iii{
+	background-color:green;
+	border-style: solid;
+	border-color:yellow;
+}
